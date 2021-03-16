@@ -1,3 +1,13 @@
+## About the project
+
+All the tasks were made including the nice to have tasks. 
+
+Businesslogic stayed in the domain layer with the use cases. 
+Repository manages the datasource from network or from DB.
+When there is an error fetching posts from network a toast will appear.
+
+
+
 ## Instructions
 
 ### This repository contains the outline and some pre-made components for a simple app, including:
