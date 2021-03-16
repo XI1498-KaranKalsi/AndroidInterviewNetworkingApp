@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidInterviewNetworkingApp</string>
+    <string name="error_posts">Oooops! Error fetching posts, try again later...</string>
+</resources>
